@@ -1,4 +1,4 @@
-name: Kotlin Multiplatform CI
+marindobyns: Kotlin Multiplatform CI
 
 on:
   push:
